@@ -1,0 +1,19 @@
+*{
+    /* background: rgb(146, 144, 144); */
+}
+
+
+#main{
+    border: 2px solid black;
+    width: 30%;
+    padding: 40px;
+    border-radius: 30px;
+    margin: 200px 450px;
+    background: rgb(3, 3, 112);
+    color: white;
+}
+#resetbtn{
+    margin: 10px 0 0 20px;
+    background: rgb(110, 185, 110);
+    border-radius: 10px;
+}
